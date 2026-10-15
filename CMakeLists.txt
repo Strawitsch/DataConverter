@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.20)
+cmake_minimum_required(VERSION 3.24)
 project(DataConverter VERSION 1.0.0 LANGUAGES CXX)
 
 # Убирает предупреждение CMP0135 при распаковке скачанных архивов
